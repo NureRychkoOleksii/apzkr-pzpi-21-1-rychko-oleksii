@@ -1,0 +1,8 @@
+{
+  "Url": "http://localhost:5045/api/",
+  "LoginEndpoint": "User/login",
+  "SensorSettingsEndpoint": "SensorSettings/",
+  "MedicalDataEndpoint": "MedicalData",
+  "SensorSettingsId": 5,
+  "SensorId": 5
+}
